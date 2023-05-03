@@ -1,2 +1,2 @@
 # Calender
-DemoDeploy in jenkins
+DemoDeploy in jenkins and deploy in tomcat
